@@ -1,0 +1,11 @@
+{
+  "name": "msw-passthrough-header-colon",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "msw": "3.0.3"
+  }
+}
